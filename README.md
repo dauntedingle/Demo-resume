@@ -2,6 +2,10 @@
 
 ___
 
+**Bachelor in Electrical Engineering, Mississippi State University**
+
+*May 2025*
+
 **Intern, MSU Office of Sustainability, Starkville, MS**
 
 *August 2023-Present*
