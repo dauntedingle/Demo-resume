@@ -2,15 +2,13 @@
 
 ___
 
+**Intern, MSU Office of Sustainability, Starkville, MS**
+*August 2023-Present*
 
-## Emphasis
+__Co-Op Student, Cooperative Energy, Hattiesburg, MS__
+_August 2021-May 2023_
 
-**This is bold text**
-
-__This is bold text__
-
-*This is italic text*
-
-_This is italic text_
+__Factory Floor, MFJ Enterprises, Starkville, MS__
+_March 2021-August 2021_
 
 -Strikethrough-
