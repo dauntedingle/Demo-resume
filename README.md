@@ -1,4 +1,4 @@
-## h2 Kirby Heathcock's Digital Resume
+## Kirby Heathcock's Digital Resume
 
 ___
 
