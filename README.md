@@ -1,8 +1,5 @@
 ## h2 Kirby Heathcock's Digital Resume
 
-
-## Horizontal Rules
-
 ___
 
 
