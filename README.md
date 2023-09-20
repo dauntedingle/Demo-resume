@@ -1,6 +1,5 @@
-# h1 Heading
-## h2 Heading
-### h3 Heading
+## h2 Kirby Heathcock's Digital Resume
+
 
 ## Horizontal Rules
 
